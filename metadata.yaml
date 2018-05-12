@@ -1,0 +1,31 @@
+_repo: A-Canadian-Manor-and-Its-Seigneurs--The-Story-of-a-Hundred-Years-1761-1861_16747
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Wrong, George McKinnon
+    alias: Wrong, George M. (George McKinnon)
+    birthdate: 1860
+    deathdate: 1948
+    gutenberg_agent_id: '1002'
+    url: http://www.gutenberg.org/2009/agents/1002
+    wikipedia: http://en.wikipedia.org/wiki/George_MacKinnon_Wrong
+description: ''
+gutenberg_issued: '2005-09-25'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '16747'
+language: en
+publication_note: 'Toronto :  The Bryant Press, Limited,  1908'
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcc 'F1001'
+- !lcsh 'Nairne family'
+- !lcsh 'La Malbaie (Québec)'
+- !lcsh 'Nairne, John, -1802'
+title: 'A Canadian Manor and Its Seigneurs: The Story of a Hundred Years, 1761-1861'
+url: http://www.gutenberg.org/ebooks/16747
