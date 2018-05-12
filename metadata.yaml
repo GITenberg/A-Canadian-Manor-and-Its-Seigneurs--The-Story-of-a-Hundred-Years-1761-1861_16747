@@ -13,6 +13,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/1002
     wikipedia: http://en.wikipedia.org/wiki/George_MacKinnon_Wrong
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/16747#A-Canadian-Manor-and-Its-Seigneurs--The-Story-of-a-Hundred-Years-1761-1861
 gutenberg_issued: '2005-09-25'
 gutenberg_type: Text
 identifiers:
